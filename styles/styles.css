@@ -1,0 +1,5 @@
+body {background-color: #D6E2F0;}
+.main {width: 220px; background: white; margin: auto;position: relative; border-radius: 1rem; top: 100px;}
+  img {position: relative; margin: auto; height: 200px;padding: 10px; border-radius: 1.2rem;}
+  h1 {margin: 0 0 0; font-size: 1rem; text-align: center; font-family: 'Outfit', sans-serif;}
+  p {margin: 0 0 0; text-align: center; font-size:12px; padding-bottom: 30px; padding-top: 15px; color: #7B879D;}
